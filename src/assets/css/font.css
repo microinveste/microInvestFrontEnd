@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  src: url("../vendor/font/BarlowCondense/BarlowCondensed-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Barlow Condensed Light';
+  font-style: normal;
+  src: url("../vendor/font/BarlowCondense/BarlowCondensed-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Barlow Condensed Medium';
+  font-style: normal;
+  src: url("../vendor/font/BarlowCondense/BarlowCondensed-Medium.ttf") format("truetype");
+}
+/*# sourceMappingURL=font.css.map */

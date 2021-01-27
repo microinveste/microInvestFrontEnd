@@ -1,0 +1,12 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  scroll-behavior: smooth;
+  -webkit-transition: scroll-behavior 5s;
+  transition: scroll-behavior 5s;
+}
+/*# sourceMappingURL=globalConfig.css.map */

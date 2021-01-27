@@ -1,0 +1,15 @@
+:root {
+  /* Fonts */
+  --mediumFont: 'Barlow Condensed Medium';
+  --lightFont: 'Barlow Condensed Light';
+  --regularFont: 'Barlow';
+  /* Colors */
+  --darkColor: #2F3033;
+  --blackColor: #000000;
+  --orangeColor: #FFB900;
+  --blueLightColor: #ECF6FB;
+  --greenLightColor: #005801;
+  --greenDarkColor: #172E00;
+  --grayOpacColor: #FAFEFF;
+}
+/*# sourceMappingURL=root.css.map */

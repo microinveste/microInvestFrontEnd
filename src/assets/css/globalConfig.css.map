@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC;AACD,CAAC,AAAA,OAAO;AACR,CAAC,AAAA,QAAQ,CAAA;EACL,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;EACtB,eAAe,EAAE,MAAM;EACvB,UAAU,EAAE,kBAAkB;CACjC",
+    "sources": [
+        "../scss/imports/globalConfig.scss"
+    ],
+    "names": [],
+    "file": "globalConfig.css"
+}
